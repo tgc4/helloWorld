@@ -41,3 +41,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.classpath
+*.project
+*.prefs
+*.class
+*.jar
+*.properties
+*.txt
+target/surefire-reports/TEST-helloMaven.HelloTest.xml
