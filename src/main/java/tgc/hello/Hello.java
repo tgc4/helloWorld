@@ -1,8 +1,11 @@
 package tgc.hello;
 
 public class Hello {
+
+	private static final String GREETINGS_MSG = "Hello World!";
+
 	public String sayHello() {
-		return "Hello World!";
+		return GREETINGS_MSG;
 	}
 
 	public static void main(String[] args) {
