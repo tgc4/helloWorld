@@ -2,7 +2,7 @@ package tgc.hello;
 
 public class Hello {
 
-	private static final String GREETINGS_MSG = "Hello World!";
+	private static final String GREETINGS_MSG = "Hello World!!";
 
 	public String sayHello() {
 		return GREETINGS_MSG;
